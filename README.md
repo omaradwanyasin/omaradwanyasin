@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I'm Omar — a Passionate Software Engineer Building Impactful Solutions</h2>
+<h2 align="left">👋 Hi, I'm Omar a Passionate Software Engineer Building Impactful Solutions</h2>
 
 <p align="left">
   I'm a versatile software engineer with a strong foundation in full-stack development. I thrive on solving complex problems and creating high-performance, scalable applications that make a difference.
